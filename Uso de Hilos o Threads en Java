@@ -1,7 +1,4 @@
 <strong>public static void main(String[] args) {
-
-        // TODO Auto-generated method stub
-
  
 
         Proceso hilo1 = new Proceso("Hilo 1");
